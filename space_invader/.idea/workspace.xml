@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3145745d-177e-48fc-a003-467061730a77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nuRQvbVBjnq7mBWBNs2pilxlCT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KATHOOLEEN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3145745d-177e-48fc-a003-467061730a77" name="Default Changelist" comment="" />
+      <created>1612237976827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612237976827</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="79" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612452514719">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="322" y="79" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1097.577@0.0.1097.577" timestamp="1612452514719" />
+    <state x="93" y="93" width="911" height="391" key="DiffContextDialog" timestamp="1612382979055">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="93" y="93" width="911" height="391" key="DiffContextDialog/0.0.1097.577@0.0.1097.577" timestamp="1612382979055" />
+    <state width="1076" height="122" key="GridCell.Tab.0.bottom" timestamp="1612518101141">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="122" key="GridCell.Tab.0.bottom/0.0.1097.577@0.0.1097.577" timestamp="1612518101141" />
+    <state width="1076" height="122" key="GridCell.Tab.0.center" timestamp="1612518101141">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="122" key="GridCell.Tab.0.center/0.0.1097.577@0.0.1097.577" timestamp="1612518101141" />
+    <state width="1076" height="122" key="GridCell.Tab.0.left" timestamp="1612518101141">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="122" key="GridCell.Tab.0.left/0.0.1097.577@0.0.1097.577" timestamp="1612518101141" />
+    <state width="1076" height="122" key="GridCell.Tab.0.right" timestamp="1612518101141">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="122" key="GridCell.Tab.0.right/0.0.1097.577@0.0.1097.577" timestamp="1612518101141" />
+    <state width="1076" height="154" key="GridCell.Tab.1.bottom" timestamp="1612381931456">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="154" key="GridCell.Tab.1.bottom/0.0.1097.577@0.0.1097.577" timestamp="1612381931456" />
+    <state width="1076" height="154" key="GridCell.Tab.1.center" timestamp="1612381931456">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="154" key="GridCell.Tab.1.center/0.0.1097.577@0.0.1097.577" timestamp="1612381931456" />
+    <state width="1076" height="154" key="GridCell.Tab.1.left" timestamp="1612381931456">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="154" key="GridCell.Tab.1.left/0.0.1097.577@0.0.1097.577" timestamp="1612381931456" />
+    <state width="1076" height="154" key="GridCell.Tab.1.right" timestamp="1612381931456">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1076" height="154" key="GridCell.Tab.1.right/0.0.1097.577@0.0.1097.577" timestamp="1612381931456" />
+    <state x="58" y="0" key="SettingsEditor" timestamp="1612271304276">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="58" y="0" key="SettingsEditor/0.0.1097.577@0.0.1097.577" timestamp="1612271304276" />
+    <state x="111" y="0" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1612381669507">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="111" y="0" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1097.577@0.0.1097.577" timestamp="1612381669507" />
+    <state width="602" height="237" key="javadoc.popup" timestamp="1612346110358">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="602" height="237" key="javadoc.popup/0.0.1097.577@0.0.1097.577" timestamp="1612346110358" />
+    <state x="211" y="-1" key="search.everywhere.popup" timestamp="1612238442168">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="211" y="-1" key="search.everywhere.popup/0.0.1097.577@0.0.1097.577" timestamp="1612238442168" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
